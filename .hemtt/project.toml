@@ -1,0 +1,24 @@
+name = "Starsim ACEX Compat"
+author = "CAnnon"
+prefix = "STAX"
+mainprefix = "z"
+
+[version]
+path = "addons/Main/script_version.hpp"
+git_hash = 0
+
+[files]
+include = [
+    "mod.cpp",
+    "meta.cpp",
+    "logo_mdf_ca.paa",
+    "logo_mdf_over_ca.paa",
+    "LICENSE",
+    "README.md"
+]
+exclude = [
+    "*.psd"
+]
+
+[properties]
+author = "Cannon"

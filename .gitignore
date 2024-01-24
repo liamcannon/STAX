@@ -1,0 +1,10 @@
+hemtt/
+.hemttout/
+releases/
+
+references/
+
+Exports/
+*.spp
+*.spp.painter_lock
+*.psd
