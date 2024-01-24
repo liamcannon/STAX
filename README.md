@@ -1,10 +1,10 @@
 # <center>Starwars ACEX Compat</center>
 <p align="center">
     <a href="https://github.com/liamcannon/STAX/releases/latest">
-        <img src="https://img.shields.io/badge/Version-1.2.0-blue.svg?style=flat-square" alt="STAX Version">
+        <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square" alt="STAX Version">
     </a>
     <a href="https://github.com/liamcannon/STAX/issues">
-        <img src="https://img.shields.io/github/issues-raw/DartRuffian/Mine-Detector-Fixes.svg?style=flat-square&label=Issues" alt="STAX Issues">
+        <img src="https://img.shields.io/github/issues-raw/liamcannon/Mine-Detector-Fixes.svg?style=flat-square&label=Issues" alt="STAX Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/">
         <img src="https://img.shields.io/steam/downloads/3086321202.svg?style=flat-square&label=Downloads" alt="STAX Downloads">
