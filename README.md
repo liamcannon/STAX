@@ -14,7 +14,7 @@
     </a>
 </p>
 
-**Mine-Detector-Fixes** (MDF) aims to serve as an "all-in-one" mod to fix various mods breaking vanilla mine detectors, which can be very frustrating for players.
+**Starwars ACEX Compat** (STAX) aims to serve as an "all-in-one" mod to compat various mods making the ACE Arsenal a cleaner space.
 
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
