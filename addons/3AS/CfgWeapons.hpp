@@ -1,6 +1,7 @@
 class CfgWeapons {
 
 	class Uniform_Base;
+	class ItemCore;
 
 	// Helmets
 	class H_HelmetB;
@@ -25,8 +26,5 @@ class CfgWeapons {
 	class 3AS_Katarn_Vest_Sniper_Base;
 	class 3AS_Katarn_Vest_Team_Leader_Base;
 
-	#include "3AS_Characters\CfgWeapons.hpp"
-	#include "3AS_CIS_Helmets\CfgWeapons.hpp"
-	#include "3AS_CIS_Infantry\CfgWeapons.hpp"
-	#include "3AS_JLTS\CfgWeapons.hpp"
+	#include "cfg\CfgWeapons.hpp"
 };

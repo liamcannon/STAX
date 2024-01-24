@@ -3,7 +3,7 @@ class XtdGearModels {
 		class GVAR(helmet_ColdAssault) {
 			label = "[3AS] Cold Assault Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -24,7 +24,7 @@ class XtdGearModels {
 		class GVAR(helmet_Katarn) {
 			label = "[3AS] Katarn Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -48,9 +48,9 @@ class XtdGearModels {
 			class Omega { label = "Omega"; };
 		};
 		class GVAR(helmet_p1) {
-		label = "[3AS] Phase 1 Helmets";
-		author = AUTHOR;
-		options = {"camo"};
+			label = "[3AS] Phase 1 Helmets";
+			author = AUTHOR;
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -83,7 +83,7 @@ class XtdGearModels {
 		class GVAR(helmet_p2_pilot) {
 			label = "[3AS] Phase 2 Pilot Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -110,7 +110,7 @@ class XtdGearModels {
 		class GVAR(helmet_p3_pilot) {
 			label = "[3AS] Phase 3 Pilot Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -127,7 +127,7 @@ class XtdGearModels {
 		class GVAR(helmet_tanker) {
 			label = "[3AS] Tanker Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -148,7 +148,7 @@ class XtdGearModels {
 		class GVAR(uniform_ColdAssault) {
 			label = "[3AS] Cold Assault Uniforms";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -167,7 +167,7 @@ class XtdGearModels {
 		class GVAR(uniform_katarn) {
 			label = "[3AS] Katarn Uniforms";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -194,7 +194,7 @@ class XtdGearModels {
 		class GVAR(uniform_pilot_p3) {
 			label = "[3AS] Phase 3 Pilot Uniforms";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -211,7 +211,7 @@ class XtdGearModels {
 		class GVAR(uniform_TSeries) {
 			label = "[3AS] T-Series Uniforms";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -230,7 +230,7 @@ class XtdGearModels {
 		class GVAR(vest_Katarn) {
 			label = "[3AS] Katarn Vests";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -255,7 +255,7 @@ class XtdGearModels {
 		class GVAR(helmet_CIS) {
 			label = "[3AS] CIS Helmets";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -272,7 +272,7 @@ class XtdGearModels {
 		class GVAR(uniform_CIS) {
 			label = "[3AS] CIS Uniforms";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;
@@ -295,7 +295,7 @@ class XtdGearModels {
 		class GVAR(backpack_ColdAssault) {
 			label = "[3AS] Cold Assault Backpacks";
 			author = AUTHOR;
-			options = {"camo"};
+			options[] = {"camo"};
 
 			class camo {
 				changeingame = 0;

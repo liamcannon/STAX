@@ -1,0 +1,1 @@
+#include "3AS_Characters\CfgVehicles.hpp"
