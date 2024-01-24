@@ -7,7 +7,11 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "STAX_main"
+            "STAX_main",
+            "3AS_JLTS",
+            "3AS_CIS_Infantry",
+            "3AS_CIS_Helmets",
+            "3AS_Characters",
         };
         authors[] = {
             "Cannon"
