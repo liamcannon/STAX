@@ -18,7 +18,7 @@
 
 The project is entirely **open-source** and any contributions to fix other mods are welcome.
 
-While containing fixes for several mods, only patches for mods that players have enabled when launching arma will be loaded using the `skipWhenMissingDependencies` flag. This ensures that missing addon or missing class errors will not occur.
+While containing fixes for several mods, only compats for mods that players have enabled when launching arma will be loaded using the `skipWhenMissingDependencies` flag. This ensures that missing addon or missing class errors will not occur.
 
 ## Available Patches
 
