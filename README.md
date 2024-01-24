@@ -38,4 +38,4 @@ STAX is built using [HEMTT](https://github.com/BrettMayson/HEMTT). There are sev
 
 ## License
 
-MDF is licensed under the Arma Public Licence ([APL](https://github.com/liamcannon/STAX/blob/main/LICENSE)).
+STAX is licensed under the Arma Public Licence ([APL](https://github.com/liamcannon/STAX/blob/main/LICENSE)).

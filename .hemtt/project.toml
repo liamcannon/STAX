@@ -11,8 +11,6 @@ git_hash = 0
 include = [
     "mod.cpp",
     "meta.cpp",
-    "logo_mdf_ca.paa",
-    "logo_mdf_over_ca.paa",
     "LICENSE",
     "README.md"
 ]
