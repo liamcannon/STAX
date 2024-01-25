@@ -1,5 +1,31 @@
 class CfgWeapons {
+
 	class JLTS_CloneArmor;
+	class JLTS_CloneArmorMC;
 	class JLTS_CloneArmorGrenadier;
 	class JLTS_CloneArmorSupport;
+	class JLTS_CloneArmorRecon;
+	class JLTS_CloneHelmetP2;
+	class JLTS_CloneHelmetP2_illum;
+	class JLTS_CloneHelmetP2MC;
+	class JLTS_CloneHelmetP2MC_illum;
+	class JLTS_CloneHelmetSC;
+	class JLTS_CloneHelmetSCC;
+	class JLTS_CloneHelmetAB;
+	class JLTS_CloneHelmetAB_illum;
+	class JLTS_CloneHelmetBARC;
+	class JLTS_CloneHelmetBARC_illum;
+	class JLTS_CloneVestOfficer;
+	class JLTS_CloneVestOfficer2;
+	class JLTS_CloneVestCommander;
+	class JLTS_CloneVestLieutenant;
+	class JLTS_CloneVestKama;
+	class JLTS_CloneVestRecon;
+	class JLTS_CloneVestReconNCO;
+	class JLTS_CloneVestReconOfficer;
+	class JLTS_CloneVestAirborne;
+	class JLTS_CloneVestAirborneNCO;
+	class JLTS_CloneVestARC;
+	class JLTS_CloneVestARCCadet;
+	class JLTS_CloneVestSuspender;
 };
