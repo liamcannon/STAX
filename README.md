@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/github/issues-raw/liamcannon/Mine-Detector-Fixes.svg?style=flat-square&label=Issues" alt="STAX Issues">
     </a>
     <a href="https://steamcommunity.com/sharedfiles/filedetails/">
-        <img src="https://img.shields.io/steam/downloads/3086321202.svg?style=flat-square&label=Downloads" alt="STAX Downloads">
+        <img src="https://img.shields.io/steam/downloads/3146756668.svg?style=flat-square&label=Downloads" alt="STAX Downloads">
     </a>
     <a href="https://github.com/liamcannon/STAX/blob/main/LICENSE">
         <img src="https://img.shields.io/badge/License-APL-red.svg?style=flat-square" alt="STAX License">
